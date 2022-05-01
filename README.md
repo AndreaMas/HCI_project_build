@@ -1,7 +1,7 @@
 # HCI_project_build
 Build of the human computer interaction videogame project, made with love by Andrea Masciulli and Alessandro Pegoraro. 
 
-For the actual code, please visit the https://github.com/AndreaMas/HCI_Project.
+For the actual code, please visit https://github.com/AndreaMas/HCI_Project.
 
 ![image](https://user-images.githubusercontent.com/32450751/166153226-ddaf85f6-538f-4f5c-b7b5-533466f72196.png)
 ![image](https://user-images.githubusercontent.com/32450751/166153185-3aa2c2c6-6679-48e2-82c0-369f2c4cf9af.png)
