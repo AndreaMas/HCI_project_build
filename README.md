@@ -15,7 +15,7 @@ The app is actually made up by two separate applications. A Pyhon application an
 - the python app uses OpenCV and MediaPipe libraries for hand detection. The position of the hand is then broadcasted through UDP protocol.
 - the unity application receves the broadcasted position of the hand. This way we're able to have very good hand detection within our game.
 
-PLEASE NOTE: A future update (hopefully by the end of this week) hopes to merge these two applications into one, making it a simple Unity executable. For the time being, this is the best we could get.
+PLEASE NOTE: A future update (by the end of this month) hopes to merge these two applications into one, making it a simple Unity executable. For the time being, this is the best we could get.
 
 ## How to run the game:
 The game was build to run on a Windows desktop machine. To run, follow these steps:
@@ -23,6 +23,6 @@ The game was build to run on a Windows desktop machine. To run, follow these ste
 - Then, open the UnityApp folder and run the 3DHandTracking.exe executable. This should launch the actual Unity game.
 
 ## Video Tutorial/Presentation
-upcoming this week
+upcoming by the end of may
 
 
