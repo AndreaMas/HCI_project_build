@@ -6,6 +6,7 @@ For the open source code, please visit https://github.com/AndreaMas/HCI_Project.
 ## YouTube Video Tutorial/Presentation
 https://youtu.be/vlIggj5z7s4
 
+## Images of Game
 ![image](https://user-images.githubusercontent.com/32450751/166153226-ddaf85f6-538f-4f5c-b7b5-533466f72196.png)
 ![image](https://user-images.githubusercontent.com/32450751/166153185-3aa2c2c6-6679-48e2-82c0-369f2c4cf9af.png)
 
