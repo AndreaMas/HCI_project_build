@@ -3,7 +3,7 @@
 Human computer interaction videogame project, made by **Andrea Masciulli** and **Alessandro Pegoraro**. 
 Here you can download the game. For the Unity code, please visit https://github.com/AndreaMas/HCI_Project.
 
-## YouTube Video Tutorial/Presentation
+## YouTube Video Presentation
 https://youtu.be/vlIggj5z7s4
 
 ## Goal of this project
