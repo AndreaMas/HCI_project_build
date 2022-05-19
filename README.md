@@ -3,6 +3,9 @@ Build of the human computer interaction videogame project, made with love by **A
 
 For the open source code, please visit https://github.com/AndreaMas/HCI_Project.
 
+## YouTube Video Tutorial/Presentation
+https://youtu.be/vlIggj5z7s4
+
 ![image](https://user-images.githubusercontent.com/32450751/166153226-ddaf85f6-538f-4f5c-b7b5-533466f72196.png)
 ![image](https://user-images.githubusercontent.com/32450751/166153185-3aa2c2c6-6679-48e2-82c0-369f2c4cf9af.png)
 
@@ -21,8 +24,5 @@ PLEASE NOTE: A future update (by the end of this month) hopes to merge these two
 The game was build to run on a Windows desktop machine. To run, follow these steps:
 - First, open the PythonApp folder, and run the dist/main/main.exe executable. This should open the computer webcam and hand tracking should be working.
 - Then, open the UnityApp folder and run the 3DHandTracking.exe executable. This should launch the actual Unity game.
-
-## Video Tutorial/Presentation
-upcoming by the end of may
 
 
